@@ -1,24 +1,6 @@
-# README
+# email-uniqueness-spec
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample app for https://qiita.com/daddy_hacker/items/c84ae1b65831d5f7264d
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+MIT License.
